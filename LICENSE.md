@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with vip MEV Bot for sandwich attack bot | back-running & volume-spike-detection, the #1 sandwich attack bot. Includes back-running and volume-spike-detection
 
 
 
